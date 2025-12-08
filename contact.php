@@ -168,6 +168,7 @@
                     <a href="features.html" class="nav-link">Features</a>
                     <a href="pricing.php" class="nav-link">Pricing</a>
                     <a href="partners.html" class="nav-link">Partners</a>
+                    <a href="innovation.html" class="nav-link">Innovation</a>
                     <a href="faq.html" class="nav-link">FAQ </a>
                     <a href="contact.php" class="nav-link">Contact Us </a>
                     <a href="/profile/login.php" class="nav-link signIn">Sign In</a>
@@ -184,6 +185,7 @@
                 <a href="features.html" class="nav-link">Features</a>
                 <a href="pricing.php" class="nav-link">Pricing</a>
                 <a href="partners.html" class="nav-link">Partners</a>
+                <a href="innovation.html" class="nav-link">Innovation</a>
                 <a href="faq.html" class="nav-link">FAQ </a>
                 <a href="contact.php" class="nav-link">Contact Us </a>
                 <a href="/profile/login.php" class="nav-link signIn">Sign In</a>

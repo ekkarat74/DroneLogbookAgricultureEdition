@@ -115,8 +115,18 @@
     <div class="page-wrapper">
       <div class="content-container">
         <div class="column-left">
-          <h1>Flexible Plans For Ag Applicators</h1>
-          <h2 class="sub-header long">DroneLogbook Agriculture Edition provides the Drone Ag Applicator with all the tools necessary for both FAA and Agricultural (Chemical Tracking) compliance. Due to the seasonal nature of your work we provide 3 options for payment, monthly, quarterly (10% discount off monthly) and annually (30% discount off monthly. If you stop using the service the data is NEVER lost, you only lose access until you resubscribe. This gives you the flexibility you need to adapt to market conditions.</h2>
+          <h1>Flexible Pricing for Ag Drone Applicators</h1>
+          <h2 class="sub-header long">DroneLogbook Agriculture Edition gives ag drone 
+            applicators all the tools they need for FAA compliance and detailed agricultural 
+            chemical-tracking at the field level. Because spraying and seeding are seasonal, 
+            we offer three subscription options: monthly, quarterly (10% discount vs. monthly),
+            and annual (30% discount vs. monthly) so you can align costs with your workload. 
+            If you pause your subscription, your data is never deleted—you simply regain 
+            access when you resubscribe. This flexible, cloud-based model lets you scale 
+            your drone spraying operation up or down as market conditions change.
+            <br>
+            <a href="https://www.dronelogbook.ag/hp/7/innovation.html"><u>FAQ - DroneLogbook - Simplifying Drone Operations</u></a>(this should read innovation)
+          </h2>  
         </div>
       </div>
     </div>
