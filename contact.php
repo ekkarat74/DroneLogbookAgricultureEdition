@@ -197,10 +197,30 @@
         <div class="page-wrapper">
             <div class="content-container">
                 <div class="column-left">
-                    <h1>Contact Us</h1>
-                    <h2 class="sub-header long">DroneLogbook is yours. So help us to improve it and match all your needs. Since the launch of DroneLogbook, we
-                        have received many helpful comments and suggestions for improvements. Thank you! We look forward to continuing
-                        receive your feedback, so don't hesitate to contact us with the following form.</h2>
+                    <h1>Contact DroneLogbook AG</h1>
+                        <h2 class="sub-header long">Have a question about <b>agricultural drone operations, 
+                            DJI Agras spray drones, or field-level chemical application tracking</b> with DroneLogbook AG? Use the form below 
+                            to contact our team. We work with <b>farmers, co-ops, custom applicators, agronomists, and drone service providers</b> 
+                            using UAVs for spraying, fertilising, seeding, and mapping.
+                            <br>
+                            In your message, let us know whether you need help with the <b>web portal, mobile app, flight log importing, chemical reports, 
+                            billing, or integrations</b>, and include your organisation email plus any key details (drone model, flight-control app, 
+                            screenshots). This helps us quickly diagnose issues and suggest the best workflow for your operation.
+                        </h2>
+
+                    <h1>Support, demos & onboardDroneLogbook AG is often used in time-sensitive seasons where every flying window matters, 
+                        so we aim to respond quickly—most enquiries receive an initial reply within one business day, with urgent technical 
+                        issues prioritised.
+                        <br>
+                        You can also use the contact form to:
+                        <ul>
+                            <li>• Request a <b>live demo</b> for your farm, co-op, or spray business</li>
+                            <li>• Get help configuring <b>fields, products, and application templates</b></li>
+                            <li>• Ask about importing <b>historical spray and flight data</b></li>
+                            <li>• Discuss <b>multi-user / multi-location setups</b> and pricing</li>
+                        </ul>
+                        Give us a brief overview of your operation (types of work, aircraft used, number of pilots), and we’ll tailor our guidance to fit.
+                    </h1>
                 </div>
             </div>
         </div>
@@ -218,16 +238,24 @@
 
     <section class="appstore wedo" style="padding-top: 20px">
         <div class="page-wrapper appstore-wrapper">
-            <div class="content-header">DroneLogbook Mobile Apps</div>
+            <div class="content-header">DroneLogbook AG Mobile Apps</div>
             <div class="divider" style="margin-bottom: 20px;"></div>
 
             <div class="appstore-text">
-                <p class="appstore__desc">The DroneLogbook solution is based on a cloud infrastructure with secure data storage, online web application
-                    accompanied by our mobile application for offline access and easy synchronization with your cloud based account.
-                    In addition, the mobile app provides you with access to the latest airspace status updates, local weather and
-                    solar index reading that might affect your operations.</p>
-                <br />
-                <p class="appstore__desc">Another Android mobile application, <b>DLBSync</b>, simplifies import of your flights from major mobile drone flight control apps natively to your DroneLogbook account. This app can sync flights into DLB Sync from your flight control apps when offline or in poor mobile coverage, then upload flights to DroneLogbook account when you have mobile or WIFI coverage.</p>
+                <p class="appstore__desc">DroneLogbook AG runs on secure cloud infrastructure with a modern web app and mobile tools built for 
+                    the paddock as well as the office. From a phone or tablet you can:
+                </p>
+                <ul>
+                    <li>• View and update missions at the field edge</li>
+                    <li>• Capture checklists, notes, and application details on-site</b></li>
+                    <li>• Work <b>offline</b> in poor coverage and sync when you’re back on Wi-Fi or mobile data</li>
+                    <li>• Check <b>airspace status, local weather, and solar index information</b> that may affect spray conditions</li>
+                </ul>
+                <br>
+                <p class="appstore__desc">Our Android companion app, <b>DLBSync</b>, imports flights from supported mobile flight-control apps 
+                    (including spray-drone controllers) directly into your DroneLogbook AG account—no cables, no manual exports. That keeps your 
+                    <b>field-level spray and fertiliser records complete and accurate</b> for growers, agronomists, and regulators.
+                </p>
             </div>
 
             <div class="appstore-links">
