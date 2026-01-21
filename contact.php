@@ -212,17 +212,16 @@
 
                     <h1>Support, demos & onboardDroneLogbook AG is often used in time-sensitive seasons where every flying window matters, 
                         so we aim to respond quickly—most enquiries receive an initial reply within one business day, with urgent technical 
-                        issues prioritised.
+                        issues prioritised.</h1>
                         <br>
-                        You can also use the contact form to:
-                        <ul>
-                            <li>• Request a <b>live demo</b> for your farm, co-op, or spray business</li>
-                            <li>• Get help configuring <b>fields, products, and application templates</b></li>
-                            <li>• Ask about importing <b>historical spray and flight data</b></li>
-                            <li>• Discuss <b>multi-user / multi-location setups</b> and pricing</li>
-                        </ul>
-                        Give us a brief overview of your operation (types of work, aircraft used, number of pilots), and we’ll tailor our guidance to fit.
-                    </h1>
+                        <p style="color: beige;">You can also use the contact form to:</p>
+                        <h4>
+                            <li style="color: beige;">Request a <b>live demo</b> for your farm, co-op, or spray business</li>
+                            <li style="color: beige;">Get help configuring <b>fields, products, and application templates</b></li>
+                            <li style="color: beige;">Ask about importing <b>historical spray and flight data</b></li>
+                            <li style="color: beige;">Discuss <b>multi-user / multi-location setups</b> and pricing</li>
+                        </h4>
+                        <p style="color: beige;">Give us a brief overview of your operation (types of work, aircraft used, number of pilots), and we’ll tailor our guidance to fit.</p>
                 </div>
             </div>
         </div>
@@ -247,12 +246,12 @@
                 <p class="appstore__desc">DroneLogbook AG runs on secure cloud infrastructure with a modern web app and mobile tools built for 
                     the paddock as well as the office. From a phone or tablet you can:
                 </p>
-                <ul>
-                    <li>• View and update missions at the field edge</li>
-                    <li>• Capture checklists, notes, and application details on-site</b></li>
-                    <li>• Work <b>offline</b> in poor coverage and sync when you’re back on Wi-Fi or mobile data</li>
-                    <li>• Check <b>airspace status, local weather, and solar index information</b> that may affect spray conditions</li>
-                </ul>
+                <h4>
+                    <li style="color: silver;">View and update missions at the field edge</li>
+                    <li style="color: silver;">Capture checklists, notes, and application details on-site</b></li>
+                    <li style="color: silver;">Work <b>offline</b> in poor coverage and sync when you’re back on Wi-Fi or mobile data</li>
+                    <li style="color: silver;">Check <b>airspace status, local weather, and solar index information</b> that may affect spray conditions</li>
+                </h4>
                 <br>
                 <p class="appstore__desc">Our Android companion app, <b>DLBSync</b>, imports flights from supported mobile flight-control apps 
                     (including spray-drone controllers) directly into your DroneLogbook AG account—no cables, no manual exports. That keeps your 
