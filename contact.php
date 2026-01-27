@@ -208,20 +208,20 @@
                             In your message, let us know whether you need help with the <b>web portal, mobile app, flight log importing, chemical reports, 
                             billing, or integrations</b>, and include your organisation email plus any key details (drone model, flight-control app, 
                             screenshots). This helps us quickly diagnose issues and suggest the best workflow for your operation.
+                            <br><br>
+                            Support, demos & onboardDroneLogbook AG is often used in time-sensitive seasons where every flying window matters, 
+                            so we aim to respond quickly—most enquiries receive an initial reply within one business day, with urgent technical 
+                            issues prioritised.
+                            <br>
+                            <br> <p style="color: beige;">You can also use the contact form to:</p>
+                            <h2 class="sub-header long">
+                                <li style="color: beige;">Request a <b>live demo</b> for your farm, co-op, or spray business</li>
+                                <li style="color: beige;">Get help configuring <b>fields, products, and application templates</b></li>
+                                <li style="color: beige;">Ask about importing <b>historical spray and flight data</b></li>
+                                <li style="color: beige;">Discuss <b>multi-user / multi-location setups</b> and pricing</li>
+                            </h2>
+                            <p style="color: beige;">Give us a brief overview of your operation (types of work, aircraft used, number of pilots), and we’ll tailor our guidance to fit.</p>
                         </h2>
-
-                    <h1>Support, demos & onboardDroneLogbook AG is often used in time-sensitive seasons where every flying window matters, 
-                        so we aim to respond quickly—most enquiries receive an initial reply within one business day, with urgent technical 
-                        issues prioritised.</h1>
-                        <br>
-                        <p style="color: beige;">You can also use the contact form to:</p>
-                        <h4>
-                            <li style="color: beige;">Request a <b>live demo</b> for your farm, co-op, or spray business</li>
-                            <li style="color: beige;">Get help configuring <b>fields, products, and application templates</b></li>
-                            <li style="color: beige;">Ask about importing <b>historical spray and flight data</b></li>
-                            <li style="color: beige;">Discuss <b>multi-user / multi-location setups</b> and pricing</li>
-                        </h4>
-                        <p style="color: beige;">Give us a brief overview of your operation (types of work, aircraft used, number of pilots), and we’ll tailor our guidance to fit.</p>
                 </div>
             </div>
         </div>
